@@ -2,9 +2,11 @@
 
 A little zero-dependency Web Component for the [standing wave](https://en.wikipedia.org/wiki/Standing_wave) underline I'm using for the hover effect on the main nav of [my personal website](https://noahliebman.net).
 
+A demo is on the [project description](https://noahliebman.net/projects/plucky-underline/) page, and the original details are described in a [blog post](https://noahliebman.net/2022/12/waves-part-2-plucky/).
+
 ## Installation
 
-This isn't on NPM because who else would want something so oddly specific? If you really want it, download `Plucky.js` and add it to your project.
+This isn't on NPM because who else would want something so oddly specific? If you really want it, download [`Plucky.js`](Plucky.js) and add it to your project.
 
 ## Basic usage
 
