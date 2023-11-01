@@ -251,7 +251,7 @@ export class Plucky extends HTMLElement {
     static #template =
         `<div id="layout">
             <slot></slot>
-            <svg viewBox="0 0 1 1" preserveAspectRatio="none" part="line-svg"><path part="line-path" /></svg>
+            <svg viewBox="0 0 1 1" preserveAspectRatio="none" part="line-svg" aria-hidden="true"><path part="line-path" /></svg>
         </div>`;
 
     static {
